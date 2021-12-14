@@ -1,4 +1,4 @@
-# super-compteur
+# Vue JS
 
 ## Project setup
 ```
